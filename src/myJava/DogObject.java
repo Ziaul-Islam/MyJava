@@ -13,7 +13,13 @@ public class DogObject {
 		
 		tim.setAge(3);
 		tim.speak();
+		System.out.println(Dog.count);
+		//both are same static function
+		Dog.display();
+		tim.display();
+		
 
 	}
 
 }
+
