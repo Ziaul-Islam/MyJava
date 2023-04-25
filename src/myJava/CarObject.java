@@ -18,9 +18,9 @@ public class CarObject {
 		ford.gearDown();
 		ford.slowDown(40);
 		ford.display();
-		ford.display();
 		ford.gearUp();
 		ford.gearDown();
-		}
+		ford.display();
+	}
 
 }
