@@ -25,5 +25,6 @@ public class OuterClass {
 		}
 		innerFunctionClass innerObj = new innerFunctionClass();
 		innerObj.display();
+		
 	}
 }
